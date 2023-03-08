@@ -37,14 +37,13 @@ Thanks Fred!
   * [Official Website](https://www.terraform.io/)
   * [rancher2_cluster_v2](https://registry.terraform.io/providers/rancher/rancher2/latest/docs/resources/cluster_v2)
 
-## Author
+## Author's
+
+👤 **Fred Richards**
+* Github: [@flrichar](https://github.com/flrichar/)
 
 👤 **Tadeu Bernacchi**
-
-* Website: http://www.tadeubernacchi.com.br/
-* Twitter: [@tadeuuuuu](https://twitter.com/tadeuuuuu)
 * Github: [@tbernacchi](https://github.com/tbernacchi)
-* LinkedIn: [@tadeubernacchi](https://linkedin.com/in/tadeubernacchi)
 
 ## Show your support
 
