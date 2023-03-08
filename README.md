@@ -7,7 +7,7 @@
 ![RKE2](/.github/assets/img/rancher-rke2.png)
 
 <div align=>
-	<img align="center" width="150px" src=/.github/assets/img/terraform-logo.png>
+	<img align="center" width="150px" src=/.github/assets/img/rancher-rke2.png>
 </div>
 
 
