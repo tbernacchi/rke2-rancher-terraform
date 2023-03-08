@@ -4,10 +4,10 @@
 
 > This is a simple RKE2 cluster in AWS using terraform.
 
-![RKE2](/.github/assets/img/rancher-rke2.png)
+![RKE2](.github/assets/img/rancher-rke2.png)
 
 <div align=>
-	<img align="center" width="150px" src=/.github/assets/img/rancher-rke2.png>
+	<img align="center" width="150px" src=.github/assets/img/rancher-rke2.png>
 </div>
 
 
