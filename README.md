@@ -16,7 +16,7 @@
   * Existing AWS Credentials, Access/Secret Keys;
   * Rancher Install with Credentials, API Token;
   * Latest versions of Rancher, terraform, & rancher2 tf provider;
-  * You're going to need to create the security group first. See directory modules/security-group rules.
+  * You're going to need to create the security group first. See directory sg with the rules.
 
 Config options for aws region, names, and machine_global_config are opinionated, open for choice of preference.
 
@@ -27,16 +27,12 @@ Maybe it'll complain in the first run ``` terraform refresh && terraform apply `
 Thanks Fred!
 
 ## Table of Contents
-
 * **Rancher**
-  *[Official Website](https://rancher.com/docs/)
-
+  [Official Website](https://rancher.com/docs/)
 * **RKE2**
-  *[Official Website](https://docs.rke2.io/)
-
+  [Official Website](https://docs.rke2.io/)
 * **Cilium**
-  *[Firewall rules](https://docs.cilium.io/en/stable/operations/system_requirements/#firewall-rules)
-
+  [Firewall rules](https://docs.cilium.io/en/stable/operations/system_requirements/#firewall-rules)
 * **Terraform**  
   * [Official Website](https://www.terraform.io/)
   * [rancher2_cluster_v2](https://registry.terraform.io/providers/rancher/rancher2/latest/docs/resources/cluster_v2)
